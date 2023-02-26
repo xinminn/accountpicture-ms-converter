@@ -1,7 +1,7 @@
 # accountpicture-ms-converter
 ```
 USAGE:
-     converter jpg to accountpicture-ms format.
+     convert jpg to accountpicture-ms format.
      AccountPicture.vbs <path of 96x96.jpg> <path of 448x448.jpg> <output>
  
 EXAMPLE:
